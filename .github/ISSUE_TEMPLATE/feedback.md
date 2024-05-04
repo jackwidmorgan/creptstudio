@@ -3,7 +3,7 @@ name: Feedback
 about: 'Tell us, how was your experience with our Website. How and what can we improve
   on? '
 title: 'Feedback '
-labels: ''
+labels: Feedback
 assignees: theteleporter
 
 ---
