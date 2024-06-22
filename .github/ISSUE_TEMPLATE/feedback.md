@@ -1,18 +1,16 @@
 ---
 name: Feedback
-about: 'Tell us, how was your experience with our Website. How and what can we improve
-  on? '
-title: 'Feedback '
+about: 'Tell us, how was your experience. How and what can we improve on? '
+title: "[Feedback]"
 labels: Feedback
 assignees: theteleporter
 
 ---
 
-**Describe how was your experience**
-A clear and concise description of how you felt when using our Website.
+## Feedback
 
-**Expected improvements**
-A clear and concise description of what you expected to be included in our next update rollout.
+**Email (Optional):**
 
-**Additional information**
-Add any other information about your experience here.
+**Describe Your Feedback:** 
+
+(Please be as detailed as possible. Include what you like, what you don't like, and any suggestions for improvement.)
